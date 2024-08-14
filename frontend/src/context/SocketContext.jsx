@@ -15,7 +15,7 @@ export const SocketContextProvider = ({ children }) => {
 
 	useEffect(() => {
 		if (authUser) {
-			const socket = io("https://twintalks.onrender.com", {
+			const socket = io("https://twintalks.up.railway.app", {
 				query: {
 					userId: authUser._id,
 				},
