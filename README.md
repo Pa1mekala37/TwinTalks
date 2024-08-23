@@ -1,7 +1,6 @@
 # 🗣️ TwinTalks
 
 TwinTalks is a modern web application designed for private, real-time communication. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it offers seamless one-on-one chat capabilities, online status tracking, and a hassle-free signup process without requiring a phone number.
-green gor
 ## 🌟 Features
 
 - **Real-Time Messaging:** 💬 Engage in instant, private conversations with other users.
