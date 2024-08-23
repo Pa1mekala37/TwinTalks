@@ -1,13 +1,11 @@
 # 🗣️ TwinTalks
 
 TwinTalks is a modern web application designed for private, real-time communication. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it offers seamless one-on-one chat capabilities, online status tracking, and a hassle-free signup process without requiring a phone number.
-
-![TwinTalks](path/to/your/screenshot.png) <!-- Add your application screenshot here -->
-
+green gor
 ## 🌟 Features
 
 - **Real-Time Messaging:** 💬 Engage in instant, private conversations with other users.
-- **Online Status Tracking:** 🔵 Monitor when your contacts are online.
+- **Online Status Tracking:** 🟢 Monitor when your contacts are online.
 - **Simple Signup:** ✨ Register easily without needing a phone number.
 
 ## 🛠️ Tech Stack
@@ -34,11 +32,13 @@ TwinTalks is a modern web application designed for private, real-time communicat
 - **Note:** No email or phone number verification is required.
 
 ### User Listing
-![User Listing](path/to/your/user-listing-screenshot.png) <!-- Add your user listing screenshot here -->
+![Screenshot 2024-08-23 at 3 08 25 PM](https://github.com/user-attachments/assets/dc1fd0ff-4efc-4482-b0f2-19c9fa59eb23)
+
 - **Description:** View a list of users available for chat.
 
 ### Chat Screen
-![Chat Screen](path/to/your/chat-screen-screenshot.png) <!-- Add your chat screen screenshot here -->
+![Screenshot 2024-08-23 at 3 08 43 PM](https://github.com/user-attachments/assets/313fd64c-d556-4b89-b81e-fffd879f9939)
+
 - **Description:** Engage in one-on-one chat with a selected user.
 
 ## 🔄 Signup and Login Process
