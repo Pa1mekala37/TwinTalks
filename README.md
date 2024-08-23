@@ -39,6 +39,9 @@ green gor
 ### Chat Screen
 ![Screenshot 2024-08-23 at 3 08 43 PM](https://github.com/user-attachments/assets/313fd64c-d556-4b89-b81e-fffd879f9939)
 
+![Screenshot 2024-08-23 at 3 17 16 PM](https://github.com/user-attachments/assets/f4bed3a6-7a35-42bc-8f51-2afda4de91f0)
+
+
 - **Description:** Engage in one-on-one chat with a selected user.
 
 ## 🔄 Signup and Login Process
